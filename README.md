@@ -1,0 +1,4 @@
+# RxHandler
+Android RxHandler
+
+使用RxJava来实现Android系统的Handler功能，使handler在sendMessage或者postRunnable时能够自由的切换线程，从UI线程到新的线程。
